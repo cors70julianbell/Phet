@@ -215,4 +215,4 @@ PhET is available as a full free version with all features and updates included.
 Experience the future of learning with PhET! Download it now and start your scientific journey today!
 
 ---
-**Last updated:** 2026-10-07 20:59:10 UTC
+**Last updated:** 2026-10-08 00:49:57 UTC
